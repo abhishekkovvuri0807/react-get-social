@@ -3,11 +3,11 @@ import '../styles/Test.css';
 
 class Test extends React.Component {
 
-
     constructor(props) {
         super(props);
         console.log(this.props.tests);
     }
+
     render() {
         return (
             <div className="test-item" key={this.props.tests.id}>

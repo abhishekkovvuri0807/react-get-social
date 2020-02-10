@@ -4,7 +4,6 @@ import Test from './Test';
 import Help from './Help';
 import Footer from './Footer';
 
-// const tests = [1, 2, 3, 4];
 
 class Main extends React.Component {
 
