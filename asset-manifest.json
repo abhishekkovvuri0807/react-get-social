@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-get-social/static/css/main.04d3f15f.chunk.css",
+    "main.js": "/react-get-social/static/js/main.78109a87.chunk.js",
+    "main.js.map": "/react-get-social/static/js/main.78109a87.chunk.js.map",
+    "runtime-main.js": "/react-get-social/static/js/runtime-main.f79c8766.js",
+    "runtime-main.js.map": "/react-get-social/static/js/runtime-main.f79c8766.js.map",
+    "static/js/2.04308a13.chunk.js": "/react-get-social/static/js/2.04308a13.chunk.js",
+    "static/js/2.04308a13.chunk.js.map": "/react-get-social/static/js/2.04308a13.chunk.js.map",
+    "index.html": "/react-get-social/index.html",
+    "precache-manifest.6a0d1bdf3c4f7b065dded903aeac7aa6.js": "/react-get-social/precache-manifest.6a0d1bdf3c4f7b065dded903aeac7aa6.js",
+    "service-worker.js": "/react-get-social/service-worker.js",
+    "static/css/main.04d3f15f.chunk.css.map": "/react-get-social/static/css/main.04d3f15f.chunk.css.map",
+    "static/js/2.04308a13.chunk.js.LICENSE.txt": "/react-get-social/static/js/2.04308a13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f79c8766.js",
+    "static/js/2.04308a13.chunk.js",
+    "static/css/main.04d3f15f.chunk.css",
+    "static/js/main.78109a87.chunk.js"
+  ]
+}
