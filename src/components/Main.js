@@ -39,16 +39,12 @@ class Main extends React.Component {
         }
     }
 
-    getTests() {
-        for (let i = 0; i < 4; i++) {
-            return <Test />;
-        }
-    }
-
-
     render() {
         return (
             <div className="main-content">
+                <div className="main-logo">
+                    <img src="http://www.get-social.ca/wp-content/uploads/2019/12/Get-Social-Logo-2.png" alt="logo"/>
+                </div>
                 <div className="content-header">
                     <div className="context-text">
                         <h1>Premium Tests</h1>
