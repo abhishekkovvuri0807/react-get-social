@@ -1,0 +1,66 @@
+.main-content {
+    background-blend-mode: overlay;
+    background-image: url(http://www.get-social.ca/wp-content/uploads/2019/12/coding-background-texture.jpg),
+    linear-gradient(180deg,#474ab6 0%,#9271f6 100%)!important;
+    height:600px;
+}
+
+.content-header {
+    color:white;
+    padding-top: 8%;
+    text-align: center;
+}
+
+.context-text h1 {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 1.3em;
+}
+
+.context-text div {
+    margin-left:9%;
+    margin-right: 9%;
+}
+
+.context-text div p {
+    color:#d4ccff!important;
+    padding-bottom: 18%;
+    font-size: 16px;
+    padding-left:25%;
+    line-height: 2em;
+    padding-right:25%;
+}
+
+.test-container {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:center;
+   
+}
+
+.page-content {
+    background-color: #ECECEE;
+}
+
+.help-container {
+    margin-top:-2%;
+    margin-left: 7%;
+    margin-right:7%;
+    margin-bottom: 8%;
+}
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+
+    .help-container {
+        margin-top:-2%;
+        margin-left: 9%;
+        margin-right:9%;
+        margin-bottom: 8%;
+    }
+
+
+    
+}

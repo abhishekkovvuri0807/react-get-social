@@ -1,0 +1,62 @@
+.help-content {
+    background-image: linear-gradient(180deg,#474ab6 0%,#9271f6 100%);
+    background-color: #2ea3f2;
+    color: #fff!important;
+    text-align: center;
+}
+
+.help-sapce {
+    padding:3% 5%;
+}
+
+.help-content-header h2 {
+    font-size: 26px;
+    font-weight: 500;
+    margin:0;
+    padding-bottom: 1.5%;
+}
+
+.help-test-content p {
+    font-size: 15px;
+    font-weight: lighter!important;
+    padding:5% 0 0 0;
+    margin:0;
+}
+
+.test-submit-content {
+    display:flex;
+    justify-content:center;
+    margin-top: 8%;
+}
+
+.test-submit {
+    padding: .3em 1em;
+    border: 2px solid;
+    border-radius: 3px;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    line-height: 1.7em!important;
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    .help-test-content p {
+        font-size: 15px;
+        font-weight: lighter!important;
+        padding:0;
+        margin:0;
+    }
+    
+    .test-submit-content {
+        display:flex;
+        justify-content:center;
+        margin-top: 4%;
+    }
+    
+}
+
